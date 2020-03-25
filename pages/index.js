@@ -4,12 +4,12 @@ import { ParcelStatus } from "../components/ParcelStatus";
 const Home = () => (
   <div className="container">
     <Head>
-      <title>Is Parcel 2 Out Yet?</title>
+      <title>Is Parcel 2 Out?</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
     <main>
-      <h1 className="title">Is Parcel 2 Out Yet?</h1>
+      <h1 className="title">Is Parcel 2 Out?</h1>
 
       <p className="answer">
         <ParcelStatus />
