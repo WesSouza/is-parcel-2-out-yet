@@ -22,7 +22,7 @@ const Home = () => (
         Wes
       </a>
       , powered by
-      <a href="https://wes.dev/" target="_blank">
+      <a href="https://zeit.co/" target="_blank">
         <img src="/zeit.svg" alt="ZEIT Logo" />
       </a>
     </footer>
